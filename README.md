@@ -16,7 +16,7 @@
 
   <ol>
     <li>Clone the repository to your local machine using the following command:<br><code>git clone https://github.com/inaamilyas/login-signup-form.git</code></li>
-    <li>Navigate to the project directory:<br><code>cd Education-Website</code></li>
+    <li>Navigate to the project directory:<br><code>cd login-signup-form</code></li>
     <li>Open any of the HTML files in a web browser to access the website.</li>
   </ol>
 
