@@ -40,5 +40,5 @@
 
   <p>If you have any questions, suggestions, or issues regarding this project, please feel free to contact us at <a href="mailto:your-inaamilyas656@gmail.com">inaamilyas656@gmail.com</a>. I appreciate your feedback.</p>
 
-  <p>Thank you for visiting our Education Responsive Website repository!</p>
+  <p>Thank you for visiting our repository!</p>
 </body>
